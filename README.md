@@ -45,3 +45,9 @@ Pages - 新加 page；
 Posts - 新加或删除 post；双击一个 post，你可以编辑，预览，新增修改 tags、categories，选择发布或不发布；
 Settings - 一些配置；
 Deploy - 可以直接部署到 github。
+
+
+### 打包
+```
+hexo g
+```
