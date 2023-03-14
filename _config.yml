@@ -103,5 +103,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/OldCoffee/hexo-blog.git
-  branch: main
+  repo: https://github.com/OldCoffee/OldCoffee.github.io.git
+  branch: master
